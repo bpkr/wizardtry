@@ -1,3 +1,15 @@
+name="Simple Kodi build 1"
+url="http://archive.org/download/m0016_201708/m0016.zip" 
+img="http://www.hanoch554.com/wizard/icon.png"
+fanart="http://www.hanoch554.com/wizard/fanart.jpg"
+description="New Update 09.08.2017 0.0.8 download now"
+
+name="Simple Kodi build 2"
+url="http://archive.org/download/t00005/t00005.zip" 
+img="http://www.hanoch554.com/wizard/icon.png"
+fanart="http://www.hanoch554.com/wizard/fanart.jpg"
+description="New Update 19.07.2017 1.3.0 download now"
+
 name="0.8.5 Husham.com KODI 15 Fully Loaded Setup"
 url="https://archive.org/download/hushamwizard.0.8.5/hushamwizard.0.8.5.zip"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
