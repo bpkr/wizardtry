@@ -1,5 +1,5 @@
 name="Boris"
-url="http://onedrive.live.com/?authkey=%21AG_SDG8XDcENcrk&cid=2CE83A2928FA8CB7&id=2CE83A2928FA8CB7%215704&parId=2CE83A2928FA8CB7%213884&action=locate" 
+url="https://veh8hg.by3301.livefilestore.com/y4mylJ148p0k1Ttf-TqBwzVadRFNoJDb-W5e2abA2tzw4AO63dNzV5ICXSxZxIQ8g20EbqwBXGtNpSR8yTmGaIopY3TILjOQ89Yv83bQ0Tp9tNhy3Vqd0CffenAfKBXzk2wk7g-rAgamf58RJoSr5H0LxNSQ_FlLnuBDZR28uxmLfO0zd9i_Yv26879fwcKpePjXc7FiGNLrJpX3KZvM3U4OA/addons.zip?download&psid=1" 
 img="http://www.hanoch554.com/wizard/icon.png"
 fanart="http://www.hanoch554.com/wizard/fanart.jpg"
 description="V 0.0.1"
