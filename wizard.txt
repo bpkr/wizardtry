@@ -1,5 +1,5 @@
 name="Boris 2"
-url="http://github.com/bpkr/wizard/blob/master/addons2.zip?raw=true" 
+url="http://raw.githubusercontent.com/bpkr/wizard/master/addons2.zip" 
 img="http://www.hanoch554.com/wizard/icon.png"
 fanart="http://www.hanoch554.com/wizard/fanart.jpg"
 description="V 0.0.1"
