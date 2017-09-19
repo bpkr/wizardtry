@@ -1,5 +1,5 @@
 name="Boris"
-url="https://onedrive.live.com/?authkey=%21AG_SDG8XDcENcrk&cid=2CE83A2928FA8CB7&id=2CE83A2928FA8CB7%215704&parId=2CE83A2928FA8CB7%213884&action=locate" 
+url="http://onedrive.live.com/?authkey=%21AG_SDG8XDcENcrk&cid=2CE83A2928FA8CB7&id=2CE83A2928FA8CB7%215704&parId=2CE83A2928FA8CB7%213884&action=locate" 
 img="http://www.hanoch554.com/wizard/icon.png"
 fanart="http://www.hanoch554.com/wizard/fanart.jpg"
 description="V 0.0.1"
